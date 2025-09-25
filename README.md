@@ -13,6 +13,10 @@
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
+> **¿Qué puede hacer GitHub Copilot? / What can GitHub Copilot do?**  
+> Para una explicación completa en español sobre las capacidades de GitHub Copilot, consulta: [QUE-PUEDES-HACER.md](./QUE-PUEDES-HACER.md)  
+> For a complete explanation of GitHub Copilot capabilities, continue reading below.
+
 </header>
 
 <!--
@@ -28,6 +32,15 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 _Welcome to "Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! :wave:_
 
 GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly. GitHub Copilot is powered by OpenAI Codex, a generative pretrained language model created by OpenAI.
+
+**What can GitHub Copilot do? / ¿Qué puede hacer GitHub Copilot?**
+
+- 🤖 **Smart code suggestions**: Provides AI-powered autocompletion in real-time
+- 🌍 **Multi-language support**: Works with Python, JavaScript, TypeScript, Ruby, Go, C#, C++, and more  
+- 💬 **Comment-to-code generation**: Creates entire functions from natural language comments
+- 🔄 **Multiple alternatives**: Offers up to 10 different solutions for any coding challenge
+- ⚡ **Instant integration**: Works seamlessly in VS Code, Codespaces, and other popular editors
+- 🎯 **Context-aware**: Understands your project structure and coding patterns
 
 **Copilot works with many code editors including VS Code, Visual Studio, JetBrains IDE, and Neovim.**
 
